@@ -1,10 +1,9 @@
-/* Reset some default styles for better consistency */
+
 body, h1, h2, p, ul, form {
     margin: 0;
     padding: 0;
 }
 
-/* Set a background color and text color */
 body {
     background-color: #f7f7f7;
     color: #333;
